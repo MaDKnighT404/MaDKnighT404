@@ -1,4 +1,4 @@
-<h1> Hi, my name is Georgii and i Frontend developer! </h1> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+<h1> Hi, my name is Georgii and I'm a frontend developer! </h1> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
  💻 Technologies:
 

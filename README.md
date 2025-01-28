@@ -17,7 +17,7 @@
 
 ---
 
-If you want, you may checked my CV: https://georgii-koloidi-cv.netlify.app/
+<!-- If you want, you may checked my CV: https://georgii-koloidi-cv.netlify.app/-->
 
 ---
 
